@@ -5,6 +5,7 @@ logs
 node_modules
 dist
 tmp
+goutam
 coverage
 npm-debug.log
 typings/
